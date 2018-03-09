@@ -1,8 +1,9 @@
 <html>
-  <title> year3-story-2018</title>
+
 <body>
+    <h1> year3-story-2018</h1>
   
-  <h2>repository to fork for the 'git story' assessment</h2>
+  <h3>repository to fork for the 'git story' assessment</h3>
   
   <a href="https://github.com/B00100350/year3-story-2018/blob/master/Chapter%201.html">Chapter 1</a>
   <br>
@@ -10,6 +11,8 @@
   <br>
   <a href="https://github.com/B00100350/year3-story-2018/blob/master/Chapter%203.html">Chapter 3</a>
 
+
+<h2>Farly Chan Magbanua Jr</h2>
 
 </body>
 </html>
