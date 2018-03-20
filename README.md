@@ -9,7 +9,7 @@
   <br>
   <a href="https://b00100350.github.io/year3-story-2018/Chapter%202.html">Chapter 2</a>
   <br>
-  <a href="https://b00100350.github.io/year3-story-2018/Chapter%203.html">Chapter 3</a>
+  <a href="https://b00100350.github.io/year3-story-2018/Chapter 3.html">Chapter 3</a>
 
 
 <h2>Farly Chan Magbanua Jr</h2>
