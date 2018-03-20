@@ -5,11 +5,11 @@
   
   <h3>repository to fork for the 'git story' assessment</h3>
   
-  <a href="https://github.com/B00100350/year3-story-2018/blob/master/Chapter%201.html">Chapter 1</a>
+  <a href="https://b00100350.github.io/year3-story-2018/Chapter%201.html">Chapter 1</a>
   <br>
-  <a href="https://github.com/B00100350/year3-story-2018/blob/master/Chapter%202.html">Chapter 2</a>
+  <a href="https://b00100350.github.io/year3-story-2018/Chapter%202.html">Chapter 2</a>
   <br>
-  <a href="https://github.com/B00100350/year3-story-2018/blob/master/Chapter%203.html">Chapter 3</a>
+  <a href="https://b00100350.github.io/year3-story-2018/Chapter%203.html">Chapter 3</a>
 
 
 <h2>Farly Chan Magbanua Jr</h2>
